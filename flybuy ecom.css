@@ -1,0 +1,334 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.flybuy-logo {
+    height: 70px;
+    width: 125px;
+}
+
+#Navitem1 {
+    font-weight: 600;
+    font-family: "Roboto";
+    color: black;
+}
+
+#Navitem2 {
+    font-weight: 600;
+    font-family: "Roboto";
+    color: black;
+}
+
+#Navitem3 {
+    font-weight: 600;
+    font-family: "Roboto";
+    color: black;
+}
+
+#Navitem4 {
+    font-weight: 600;
+    font-family: "Roboto";
+    color: black;
+}
+
+#Navitem5 {
+    font-weight: 600;
+    font-family: "Roboto";
+    color: black;
+}
+
+.flybuy-banner-section {
+    height: 150vh;
+    background-size: cover;
+}
+
+.services-main-heading {
+    color: #183b56;
+    font-weight: bold;
+    font-size: 38px;
+    font-family: "Roboto";
+}
+
+.services-description {
+    color: #616c7c;
+    font-size: 16px;
+    font-family: "Roboto";
+    font-weight: 500;
+}
+
+.services-card-image {
+    height: 75px;
+    width: 75px;
+}
+
+.services-card-title {
+    color: #1f2933;
+    font-weight: 500;
+    font-size: 22px;
+    font-family: "Roboto";
+}
+
+.services-card-description {
+    color: #7b8974;
+    font-weight: 500;
+    font-size: 16px;
+    font-family: "Roboto";
+}
+
+.ecom-products-section {
+    font-family: "Roboto";
+}
+
+.products-section-heading {
+    font-weight: 700;
+    font-size: 38px;
+    color: #183b56;
+}
+
+.ps-card-background1 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png");
+    background-size: cover;
+}
+
+.ps-card-background2 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png");
+    background-size: cover;
+}
+
+.products-section-card {
+    padding: 10px;
+    height: 328px;
+    border-radius: 16px;
+}
+
+.products-card-title {
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 28px;
+}
+
+.products-card-description {
+    font-weight: 400;
+    font-size: 20px;
+    color: #ffffff;
+}
+
+.product-details-button {
+    height: 48px;
+    width: 139px;
+    border-radius: 12px;
+    background-color: #ffffff;
+    color: #ff9f00;
+    font-weight: bold;
+    border-width: 0px;
+}
+
+.alloffers-link {
+    color: #ff9f00;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.offers-bg-container {
+    background-image: linear-gradient(to right, #f49541, #dd5d97);
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.offers-section-heading {
+    color: #ad2167;
+    font-family: "Bree Serif";
+    font-size: 28px;
+}
+
+.offers-section-description {
+    color: white;
+    font-family: "Roboto";
+    font-size: 18px;
+}
+
+.offer-in-percent {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.offers-section-discount-image {
+    width: 250px;
+    margin: 10px;
+}
+
+.trending-blogs-heading {
+    color: #183b56;
+    font-weight: bold;
+    font-family: "Roboto";
+    font-size: 40px;
+}
+
+.blog-card-title {
+    color: #959ead;
+    font-family: "Roboto";
+    font-size: 12px;
+    font-weight: 500;
+}
+
+.blog-card-name {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 600;
+}
+
+.blog-card-description {
+    color: #959ead;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.blog-card-image {
+    width: 100%;
+    height: 40%;
+}
+
+.readmore-link {
+    color: #ff9f00;
+    font-size: 16px;
+    font-family: "readmore-link";
+    font-weight: 600;
+}
+
+.explore-section-heading {
+    color: #183b56;
+    font-weight: bold;
+    font-family: "Roboto";
+    font-size: 34px;
+    margin-top: 30px;
+}
+
+.explore-section-card-title {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 27px;
+    font-weight: 600;
+}
+
+.explore-section-img1 {
+    width: 75%;
+    border-radius: 16px;
+    margin: 14px;
+}
+
+.explore-section-image-title {
+    font-weight: 500;
+    font-family: "Roboto";
+    font-size: 18px;
+    color: black;
+}
+
+.readmore-link {
+    color: #ff9f00;
+    font-size: 16px;
+    font-family: "readmore-link";
+    font-weight: 800;
+    margin: 20px;
+}
+
+.explore-section-card {
+    border-radius: 18px;
+    padding: 10px;
+}
+
+.explore-section-img2 {
+    width: 85%;
+    border-radius: 14px;
+}
+
+.contact-us-heading {
+    font-family: "Roboto";
+    font-size: 42px;
+    color: #183b56;
+    font-weight: bold;
+}
+
+.contact-us-section {
+    background-color: #f5f7fa;
+}
+
+.contact-us-button {
+    color: #ff9f00;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 0px;
+    border-color: #ff9f00;
+    width: 140px;
+    height: 44px;
+    font-size: 18px;
+}
+
+.ecom-footer-section {
+    background-color: #0d2436;
+    background-size: cover;
+}
+
+.footer-icon {
+    width: 75%;
+}
+
+.social-icon-container {
+    width: 70px;
+    height: 70px;
+    background-color: #152c3e;
+    padding-top: 22px;
+    padding-bottom: 16px;
+    padding-right: 16px;
+    padding-left: 22px;
+    margin: 15px;
+    border-radius: 50px;
+}
+
+.icon {
+    color: #5a7184;
+    font-size: 37px;
+}
+
+.address-title {
+    color: #5a7184;
+    font-weight: 500;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.contact-additional-details {
+    color: #5a7184;
+    font-family: "Roboto";
+}
+
+.details-heading {
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.details-list {
+    font-size: 18px;
+    font-weight: 500;
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.footer-list-item {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 5px;
+}
+
+.hr-line {
+    background-color: #5a7184;
+}
+
+.ecom-footer-copywright {
+    color: #959ead;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 5px;
+}
